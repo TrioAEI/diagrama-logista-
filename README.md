@@ -1,3 +1,7 @@
+# Turma e Trio
+Turma: INFO20
+Alunos: Carlos Abraão, Erick Marcos e Iziane Sampaio
+
 # Modelo Entidade-Relacionamento para Empresa de Logística
 
 Este é um modelo Entidade-Relacionamento para uma empresa de logística que descreve as entidades e os relacionamentos entre elas.
